@@ -3,21 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "classnames": "^2.2.6",
-    "cross-env": "^5.2.0",
-    "immutable": "^4.0.0-rc.12",
-    "include-media": "^1.4.9",
-    "node-sass": "^4.12.0",
-    "open-color": "^1.7.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-redux": "^7.1.0",
-    "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
-    "redux": "^4.0.4",
-    "redux-actions": "^2.6.5",
-    "redux-pender": "^2.0.12",
-    "sass-loader": "^7.1.0"
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
